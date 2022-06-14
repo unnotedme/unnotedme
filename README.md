@@ -2,7 +2,7 @@
 
 <p>💻 junior software engineer</p>
 <p>📖 studying it programming at nova scotia community college</p>
-<p>🎥 i stream some projects on my <a href:"https://www.twitch.tv/unnotedme">twitch channel</a></p>
+<p>🎥 i stream some projects on my twitch channel: https://www.twitch.tv/unnotedme</p>
 <p>🌱 i'm currently learning react, android development and kotlin</p>
 
 <div align="center">
