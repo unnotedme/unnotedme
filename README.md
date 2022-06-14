@@ -1,4 +1,10 @@
 ## hi! i'm ted sá :)
+
+💻 junior software engineer
+📖 studying it programming at nova scotia community college
+🎥 i stream some projects on my [twitch channel](https://www.twitch.tv/unnotedme)
+🌱 i'm currently learning react, android development and kotlin
+
 <div align="center">
   <a href="https://github.com/unnotedme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unnotedme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
