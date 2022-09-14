@@ -3,7 +3,7 @@
 <p>💻 Junior software engineer</p>
 <p>📖 Studying Database Administration at Nova Scotia Community College</p>
 <p>🎥 I stream some projects on my Twitch Channel: https://www.twitch.tv/unnotedme</p>
-<p>🌱 I'm currently learning react, Android development and kotlin</p>
+<p>🌱 I'm currently learning React, Android development and Kotlin</p>
 
 <div align="center">
   <a href="https://github.com/unnotedme">
