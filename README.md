@@ -1,4 +1,4 @@
-## hi! i'm ted sá :)
+## Hi! I'm Ted Sá :)
 
 <p>💻 Junior software engineer</p>
 <p>📖 Studying Database Administration at Nova Scotia Community College</p>
