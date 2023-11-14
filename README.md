@@ -1,7 +1,7 @@
 ## Hi! I'm Ted Sá :)
 
-<p>💻 Junior software engineer</p>
-<p>📖 Studying Database Administration at Nova Scotia Community College</p>
+<p>💻 Junior Software Engineer</p>
+<p>📖 Studying Database Administration at Nova Scotia Community College & Information Systems at UNA</p>
 <p>🎥 I stream some projects on my Twitch Channel: https://www.twitch.tv/unnotedme</p>
 <p>🌱 I'm currently learning React, Kotlin and Data Engineering</p>
 
